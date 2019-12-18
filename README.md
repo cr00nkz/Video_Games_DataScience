@@ -9,7 +9,26 @@ Having it downloaded, a few questions shot into mind.
 * What data can we analyze from a video game dataset found "in the wild" in the first place? 
 * How are certain publishers doing?
 * Can we predict ratings of new games?
+* Which platform receives the highest ratings?
+* How did sales change through the years?
 
+#Results
+* What data can we analyze from a video game dataset found "in the wild" in the first place? 
+  * Ratings
+    * Critic ratings went down
+    * User ratings went up
+    * Cutover in 2011
+* How are certain publishers doing?
+  * Nintendo delivers high quality ratings constantly
+  * Konami get's better and better
+* Can we predict ratings of new games?
+  * With the small dataset we have, no, not really
+* Which platform receives the highest ratings?
+  * The PC unmatchingly received the highest critic ratings
+* How did sales change through the years?
+  * The sales peaked in 2008 and went down constantly from that on
+ 
+Please look at the notebook for more insights.
 
 # The following dataset was used
 `Video_Games_Sales_as_at_22_Dec_2016.csv` prepared by `Rush Kirubi` (https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings).
