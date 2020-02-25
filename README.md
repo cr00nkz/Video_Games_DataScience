@@ -12,7 +12,7 @@ Having it downloaded, a few questions shot into mind.
 * Which platform receives the highest ratings?
 * How did sales change through the years?
 
-#Results
+# Results
 * What data can we analyze from a video game dataset found "in the wild" in the first place? 
   * Ratings
     * Critic ratings went down
